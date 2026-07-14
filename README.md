@@ -1,6 +1,5 @@
 ## Hi there👋 I am Wanjiku Kahoro
 
-<!--
 I ask a lot of questions. Luckily, data usually has the answers.
 
 I'm an Epidemiology & Biostatistics professional exploring the world of public health and data science one dataset at a time. I enjoy finding patterns, making sense of messy data and building projects that solve real problems (or at least make someone say, *"Huh, that's interesting."*)
