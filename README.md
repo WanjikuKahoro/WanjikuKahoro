@@ -1,4 +1,4 @@
-## Hi there👋 I am Wanjiku Kahoro
+# Hi there👋 I am Wanjiku Kahoro
 
 I ask a lot of questions. Luckily, data usually has the answers.
 
@@ -12,3 +12,10 @@ GitHub is my little corner of the internet where I learn, build, break things, f
 - How can machine learning improve public health decision-making?
 - How can spatial data reveal disease patterns?
 - How can good visualization make research more accessible?
+
+## 📫 Get in Touch
+
+- **Email:** kahoroemma@gmail.com
+- **LinkedIn:** [Wanjiku-Kahoro](https://www.linkedin.com/in/emma-kahoro) 
+- 🚧 **Portfolio Website:** Coming soon  
+I am currently building a personal portfolio to showcase selected projects, dashboards and case studies.
