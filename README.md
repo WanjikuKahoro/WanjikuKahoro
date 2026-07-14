@@ -2,7 +2,7 @@
 
 I ask a lot of questions. Luckily, data usually has the answers.
 
-I'm an Epidemiology & Biostatistics professional exploring the world of public health and data science one dataset at a time. I enjoy finding patterns, making sense of messy data and building projects that solve real problems (or at least make someone say, *"Huh, that's interesting."*)
+I'm an Epidemiologist exploring the world of data science one dataset at a time. I enjoy finding patterns, making sense of messy data and building projects that solve real problems or at least make someone say, *"Huh, that's interesting"*🧐.
 
 Whether it's understanding disease patterns, predicting outcomes or exploring trends hidden in thousands of rows of data, I enjoy turning uncertainty into insight.
 
